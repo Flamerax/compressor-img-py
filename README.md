@@ -1,7 +1,7 @@
 # Otimizador de Imagens para Web
 
-Script Python que comprime imagens automaticamente para uso web, mantendo nomes e formatos originais.
-Fiz essa alternativa porque uma vez precisei comprimir uma lista de mais de 300 imagens, e as opções "gratuitas" online tem muitas limitações quando são muitos arquivos ou quando os arquivos são muito grandes. Nem cogitei a ideia de baixar alguma software.
+- Script Python que comprime imagens automaticamente para uso web, mantendo nomes e formatos originais.
+- Fiz essa alternativa porque uma vez precisei comprimir uma lista de mais de 300 imagens, e as opções "gratuitas" online tem muitas limitações quando são muitos arquivos ou quando os arquivos são muito grandes. Nem cogitei a ideia de baixar alguma software.
 
 ## 📋 Pré-requisitos
 
